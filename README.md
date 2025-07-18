@@ -1,5 +1,9 @@
 # 🧠 Portfólio de Sites com IA
 
+<p align="center">
+  <img src=".github/images/capa%20do%20portifolio%20site.png" alt="Capa do Portfólio Meirian" width="100%" />
+</p>
+
 
 
 Este projeto reúne landing pages criadas com foco em design estratégico, acessibilidade e presença digital.

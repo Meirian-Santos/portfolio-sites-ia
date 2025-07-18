@@ -1,6 +1,6 @@
 # 🧠 Portfólio de Sites com IA
+![Preview da capa do portfólio do site](.github/images/capadoportifoliodosite.png)
 
-![Preview da capa do portifolio do site](./imagens/capadoportifoliodosite.png)
 
 
 

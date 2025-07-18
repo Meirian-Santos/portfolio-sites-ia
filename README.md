@@ -1,5 +1,7 @@
 # 🧠 Portfólio de Sites com IA
-![Preview da capa do portfólio do site](.github/images/capadoportifoliodosite.png)
+<p align="center">
+  <img src="images/capa%20do%20portifolio%20site.png" alt="Capa do Portfólio Meirian" width="100%" />
+</p>
 
 
 
